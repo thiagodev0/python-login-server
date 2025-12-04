@@ -42,7 +42,7 @@ python-login-server/
 ## Como rodar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/Python-Login-Server.git
+git clone https://github.com/thiagodev0/python-login-server.git
 ````
 
 2. Entre na pasta do projeto:
