@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Cadastro{% endblock %}
+{% block content %}
+<h2>Cadastro</h2>
+<form method="POST">
+    <input type="text" name="username" placeholder="Usuário" required><br>
+    <input type="password" name="password" placeholder="Senha" required>
+    <button type="button" id="togglePassword">Mostrar</button><br>
+    <button type="submit">Cadastrar</button>
+</form>
+<a href="{{ url_for('auth.login') }}">Já tenho conta</a>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+{% endblock %}

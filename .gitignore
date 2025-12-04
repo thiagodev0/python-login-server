@@ -1,5 +1,13 @@
+# Ambiente virtual
 venv/
+
+# Banco de dados
+site.db
+instance/
+
+# Pycache
 __pycache__/
 *.pyc
-instance/
-*.db
+
+# Configs locais
+*.env
