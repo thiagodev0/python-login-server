@@ -48,7 +48,7 @@ git clone https://github.com/seuusuario/Python-Login-Server.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd Python-Login-Server
+cd python-login-server
 ```
 
 3. Crie e ative o ambiente virtual:
