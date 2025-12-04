@@ -23,7 +23,7 @@ Sistema de login e cadastro de usuários feito em Python com Flask e SQLite.
 ## Estrutura do projeto
 ```
 
-meu_servidor/
+python-login-server/
 ├── main.py
 ├── config.py
 ├── app/
