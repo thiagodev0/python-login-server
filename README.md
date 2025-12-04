@@ -27,7 +27,7 @@ python-login-server/
 ├── main.py
 ├── config.py
 ├── app/
-│   ├── **init**.py
+│   ├── __init__.py
 │   ├── routes.py
 │   ├── auth.py
 │   ├── db.py
